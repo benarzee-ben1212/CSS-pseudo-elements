@@ -1,0 +1,9 @@
+p::first-letter {
+    color: #b426a8;
+    font-size: xx-large;
+  }
+  
+  p::first-line {
+    color: #13065f;
+    font-variant: small-caps;
+  }
